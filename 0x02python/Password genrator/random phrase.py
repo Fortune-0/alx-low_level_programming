@@ -1,0 +1,1 @@
+# This program prints a random phrase from a list, for telegram

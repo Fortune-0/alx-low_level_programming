@@ -1,4 +1,6 @@
 a = input("input a number:  ")
 b = input("input a number:  ")
-c = int (a) + int (b)
+c = str (a) + str (b)
+
 print(c)
+print(type(c))
